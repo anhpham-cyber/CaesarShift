@@ -1,6 +1,6 @@
 # Caesar Cipher Tool
 
-This is a simple Python program that implements the **Caesar Cipher**, a classic encryption technique.  
+A compact Python Caesar Cipher tool that shifts letters by a user-defined key to encrypt/decrypt messages. Built during FreeCodeCamp Python training—perfect for CTF warmups, red team steganography drills, or blue team labs on classical cipher detection and brute-force attacks
 The program allows you to **encrypt or decrypt messages** by shifting letters by a specified number.
 
 ---
